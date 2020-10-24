@@ -1,5 +1,3 @@
-# amfoss-tasks
-for amFOSS
 
 # amFOSS tasks - Rahul R Nair
 A mere attempt towards learning further in coding. 
