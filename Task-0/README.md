@@ -15,3 +15,5 @@ Using it is pretty intuitive, just have to copy the iso into the USB using the '
 
 ### Step 3:
 While restarting the computer, enter BIOS and change the boot order to allow the Flash Drive to boot first. After that restart the computer and the rest is the same as installing any other application.
+
+#### Thank You !
