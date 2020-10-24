@@ -1,8 +1,8 @@
 # amfoss-tasks
 for amFOSS
 
-# amFOSS tasks - Ashwin R 
-This is Ashwin, fresher at Amrita School of Engineering (CSE 2019). 
+# amFOSS tasks - Rahul R Nair
+A mere attempt towards learning further in coding. 
 
 ## Table of Contents
 
