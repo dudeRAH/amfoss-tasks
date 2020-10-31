@@ -24,3 +24,4 @@ void half_pyramid(int n)
         printf("\n");
     }
 }
+ 
