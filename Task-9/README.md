@@ -1,5 +1,5 @@
 # Spammer's Spaghetti
-### Open chat screen and execute the code on developer console 
+## Open chat screen and execute the code on developer console 
 
 var message = "dudeRAH on spam";
 
