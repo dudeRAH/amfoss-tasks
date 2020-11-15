@@ -1,10 +1,10 @@
 # bandit0
 
-SSH Information 
+#### SSH Information 
 
-Host: bandit.labs.overthewire.org
+Host: ##### bandit.labs.overthewire.org
 
-Port: 2220
+Port: ##### 2220
 
 
 ## Passwords:-
