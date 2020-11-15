@@ -1,4 +1,4 @@
-# bandit0
+# Bandit Password
 
 #### SSH Information 
 
