@@ -16,4 +16,5 @@ An attempt towards learning further in coding.
 | <a href="https://github.com/dudeRAH/amfoss-tasks/tree/main/Task-9">Task-9</a> | Spammer's Spaghetti |
 | <a href="https://github.com/dudeRAH/amfoss-tasks/tree/main/Task-10">Task10</a> | CS50 |
 | <a href="https://github.com/dudeRAH/amfoss-tasks/tree/main/Task-11">Task11</a> | Poster Designing |
+| <a href="https://github.com/dudeRAH/amfoss-tasks/tree/main/Task-12">Task12</a> | If maths was fun |
 | <a href="https://github.com/dudeRAH/amfoss-tasks/tree/main/Task-14">Task-14</a> | Bandit |
