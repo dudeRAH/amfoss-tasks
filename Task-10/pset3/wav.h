@@ -31,4 +31,4 @@ bool rest_write(song s, int duration);
 bool song_close(song s);
 
 // Creates a new song
-song song_open(string filename);
+song song_open(string filename); 
