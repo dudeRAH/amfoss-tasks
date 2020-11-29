@@ -1,4 +1,3 @@
-
 from math import * # Importing some math libraries to compute sin(x), pi etc
 import numpy as np # Importing to have a float range
 import sys;
@@ -13,10 +12,8 @@ T=input();
 if(int(T)==0):
     sys.exit("Number of test cases should be between 1 and 100000");
 for i in range(int(T)):
-    b=input()
-    b=float(b)
-    c=input()
-    c-float(c)
+    b=float(input())
+    c=float(input())
     nslices=1000; #slicing the graph into smaller units to find effective slope at a point
     deltax=.00000001; #assuming a small value for delta x and finding other attributes and slope via the assumed value
     value=10e22; # very high value in order to swap with the temporary variable to get the smallest value
@@ -33,4 +30,3 @@ for i in range(int(T)):
             if(tmp<value):
                 value=tmp;
     print('The minimum value is',value)
-
