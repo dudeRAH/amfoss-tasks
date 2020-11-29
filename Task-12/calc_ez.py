@@ -1,19 +1,19 @@
-# Import some math libraries to compute sin(x), pi etc
-from math import *
-import numpy as np # to have a float range
+
+from math import * # Importing some math libraries to compute sin(x), pi etc
+import numpy as np # Importing to have a float range
 import sys;
-# Define the function so that it can be called at different values of x
-def myfunc(x,b,c):
+
+def myfunc(x,b,c): # Defining the function so that it can be called at different values of x
     num=x**2+b*x+c;
     den=sin(x);
     return num/den;
 
 
-T=input('Number of Test Cases to solve(minimum value of F(x)=x^2+)');
+T=input();
 if(int(T)==0):
     sys.exit("Number of test cases should be between 1 and 100000");
 for i in range(int(T)):
-    tmpstr=input('Give Value of b and c seperated by comma for the above mentioned equation')
+    tmpstr=input()
     res=tmpstr.split(',');
     b=float(res[0]);
     
