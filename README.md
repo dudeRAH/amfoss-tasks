@@ -1,6 +1,6 @@
 
 # amFOSS tasks - Rahul R Nair
-A mere attempt towards learning further in coding. 
+An attempt towards learning further in coding. 
 
 ## Table of Contents
 
